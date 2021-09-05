@@ -1,0 +1,3 @@
+I just made this file in order to see what git does
+when a new file appears, does it registers it with 'git diff', or
+does it tells you the file its not being followed so you have to do 'git add'
