@@ -2,3 +2,4 @@ This file gonna be pushed to GitHub repository
 
 Later I'm gonna edit it
 I appended this line with 'cat >> example_file.txt' command line
+I just edited this new line to see what happens with 'git diff'
