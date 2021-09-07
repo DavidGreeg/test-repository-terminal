@@ -1,249 +1,0 @@
-Script iniciado en 2021-09-07 01:27:48-0500
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ "[K#So noe[Kw, I should be recording my terminal
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ @Whta[K[K[K[K[K#What should I do next?
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ I was gonna doooo---[K[K[K...[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kss gonna dooo...
-I: orden no encontrada
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git log
-[?1h=[33mcommit b29dbdd7e8751835c0529806e52bfd4495693f21[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
-Author: David Greeg <dgreegmdz@hotmail.com>[m
-Date:   Tue Sep 7 00:52:11 2021 -0500[m
-[m
-    se añadieron programas a ignorar para conocer las capacidades de .gitignore[m
-[m
-[33mcommit ecedb219ec9ce0e7622fdcde68146e6e510f6019[m[m
-Author: David Greeg <dgreegmdz@hotmail.com>[m
-Date:   Mon Sep 6 20:13:51 2021 -0500[m
-[m
-    Se agregó un .gitignore[m
-[m
-[33mcommit 2f8c921dd9eda47cefdae15a668ac2201df85f9d[m[m
-Author: David Greeg <dgreegmdz@hotmail.com>[m
-Date:   Mon Sep 6 01:13:32 2021 -0500[m
-[m
-    Se añadieron dos lineas a example_file1[m
-[m
-[33mcommit c15cdf973654c14daed2b1099f7d306eb3a51680[m[m
-Author: David Greeg <dgreegmdz@hotmail.com>[m
-Date:   Sun Sep 5 19:25:05 2021 -0500[m
-[m
-    Se le añadio una linea de texto a example_file1[m
-[m
-[33mcommit 4889bdfed21ea422a8436ebe7046b051af8c6d13[m[m
-Author: David Greeg <dgreegmdz@hotmail.com>[m
-Date:   Sun Sep 5 19:20:22 2021 -0500[m
-[m
-    Se cambio de nombre example1 a example_file1[m
-[m
-[33mcommit d232275b4ae490b6ec9f554f41930d9193d76e84[m[m
-:[K[K[?1l>(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ # Nor[Kt sure if that was what I wn[Kanted to t[Kdo
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ may[K[K[K@[K# Maybe son[Kme git status?
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git status
-En la rama master
-Archivos sin seguimiento:
-  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
-
-	[31mtimed_script.log[m
-	[31mtimed_script1.logged[m
-	[31mtimeof_script.log[m
-
-no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ damn
-
-Orden «damn» no encontrada. Quizá quiso decir:
-
-  la orden «dan» del paquete deb «emboss»
-  la orden «dman» del paquete deb «debian-goodies»
-  la orden «dman» del paquete deb «bikeshed»
-
-Pruebe con: sudo apt install <nombre del paquete deb>
-
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ so [K[K[Ks[KSo now I have to add them
-So: orden no encontrada
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ i[Kgti [K[K[Kgit [K[K[K[Kit adad[Kd[Kd[K[Kd .
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git commit .[K-m " [KI just adde[K[K[K[Kmade come[K[K[K[Ksome scrips[Kts and I'm testing their timing (replay) abbi[K[Kilities'[K"
-[master a763bdb] I just made some scripts and I'm testing their timing (replay) abilities
- 3 files changed, 10 insertions(+)
- create mode 100644 timed_script.log
- create mode 100644 timed_script1.logged
- create mode 100644 timeof_script.log
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ # Ohhhh yesah I was gonn a[K[K[Ka[Kna do a carper[Kt for scripts and history[Kies[K[K[Kila[K[Kals
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ ls
- archivo_ignorar3.txt   [0m[01;34mcarpeta_ignorar1[0m   example_file1.txt   [01;34mhistorial[0m     [01;34mscripts2021[0m         [01;34m'some files'[0m            timed_script.log
- [01;34marchivos_ignorar[0m       [01;34mcarpeta_ignorar2[0m   example_file2.txt   [01;34mscripts2020[0m   sesion-6sept21.txt   timed_script1.logged   timeof_script.log
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ @[K# [KThat shoul be histo[K[K[K[K[K'historial'[C[C[C[C[C[1@d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ #Lets check whats inside historial
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ hisotri[K[K[K[Ktorila[K[Kal [Klhistorialahistorial historial[1Phistorial[1Phistorialshistorial historial
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ noht[K[Kthing
-nothing: orden no encontrada
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ nothingls historial[22@#Lets check whats inside[C[C[C[C[C[C[C[C[C[C[7PThat should be 'historial'ls[K# Ohhhh yesah I was gonna do a carpet for scripts and historials[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "I just made some scripts and I'm testing their timing (replay) abilities"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[KSo now I have to add themdamn[Kgit status# Maybe some git status?Not sure if that was what I wanted to dogit log[KI wasss gonna dooo...#What should I do next?So now, I should be recording my terminalexit[Ksexitthiswwo[3Pexitgit commit -m 'Se agregó un .gitignore'[24Pnano .gitignore[2Prm[C[C[C[C[C[C[C[C[C[C[Cgit rm \.gitignore[1P.gitignore[3Pcat[C[C[C[C[C[C[C[C[C[C[C'sesion-6sept21.txt' > .gitignoreademas debe estar en el mismo directorio que la carpeta '.git', ojo, la misma, no dentro de esta'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pecho 'dentro del archivo hay que escribir los archivos que git debe ignorar[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cademas debe estar en el mismo directorio que la carpeta '.git', ojo, la misma, no dentro de esta'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[60Pcat 'sesion-6sept21.txt' > .gitignoreademas debe estar en el mismo directorio que la carpeta '.git', ojo, la misma, no dentro de esta'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pecho 'dentro del archivo hay que escribir los archivos que git debe ignorar[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'[Kecho 'crearemos archivo '.gitignore'[6Pomo "ignorar" archivos'rearemos archivo '.gitignore'[6Pomo "ignorar" archivos'git diff[Kstatuxrandr --output LVDS --rotate normalgit reflog[Kset --mixed 2f8c921dd9eda47cefdae15a668ac2201df85f9d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho 'si realizo un reset --mixed, será que se crea otro documento de example_file1.txt?' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat example_file1.txt[Kecho 'aunque regresemos a un estado anterior, no se eliminó el archivo sesion-6sept21.txt'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat example_file1.txt[Kecho 'si realizo un reset --mixed, será que se crea otro documento de example_file1.txt?' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pgit reset --mixed 2f8c921dd9eda47cefdae15a668ac2201df85f9dflog[Kxrandr --output LVDS --rotate normalgit statu[K[1Pdiffecho 'como "ignorar" archivos'rearemos archivo '.gitignore''[Kecho 'dentro del archivo hay que escribir los archivos que git debe ignorar[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cademas debe estar en el mismo directorio que la carpeta '.git', ojo, la misma, no dentro de esta'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[60Pcat 'sesion-6sept21.txt' > .gitignore.gitignore[K[3@git rm[C[C[C[C[C[C[C[C[C[C[C\.gitignore[5Prm .gitignore[2@nano[C[C[C[C[C[C[C[C[C[C[Cgit commit -m 'Se agregó un .gitignore'exit[Kthiswwo[2Psexit[1Pexit#So now, I should be recording my terminal[19PWhat should I do next?[2PI wasss gonna dooo...[14Pgit log# Not sure if that was what I wanted to do[18PMaybe some git status?[14Pgit status# Maybe some git status?Not sure if that was what I wanted to dogit log[KI wasss gonna dooo...#What should I do next?So now, I should be recording my terminalexit[Ksexitthiswwo[3Pexitgit commit -m 'Se agregó un .gitignore'[24Pnano .gitignore[2Prm[C[C[C[C[C[C[C[C[C[C[Cgit rm \.gitignore[1P.gitignore[3Pcat[C[C[C[C[C[C[C[C[C[C[C'sesion-6sept21.txt' > .gitignoreademas debe estar en el mismo directorio que la carpeta '.git', ojo, la misma, no dentro de esta'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pecho 'dentro del archivo hay que escribir los archivos que git debe ignorar[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'[Kecho 'crearemos archivo '.gitignore'[6Pomo "ignorar" archivos'git diff[Kstatuxrandr --output LVDS --rotate normalgit reflog[Kset --mixed 2f8c921dd9eda47cefdae15a668ac2201df85f9d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho 'si realizo un reset --mixed, será que se crea otro documento de example_file1.txt?' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat example_file1.txt[Kecho 'aunque regresemos a un estado anterior, no se eliminó el archivo sesion-6sept21.txt'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[33Pgit reset --hard 2f8c921dd9eda47cefdae15a668ac2201df85f9d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clog | head[Kreset --hard 2f8c921dd9eda47cefdae15a668ac2201df85f9d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho 'aunque regresemos a un estado anterior, no se eliminó el archivo sesion-6sept21.txt'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat example_file1.txt[Kecho 'si realizo un reset --mixed, será que se crea otro documento de example_file1.txt?' [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pgit reset --mixed 2f8c921dd9eda47cefdae15a668ac2201df85f9dflog[Kxrandr --output LVDS --rotate normalgit statu[K[1Pdiffecho 'como "ignorar" archivos'rearemos archivo '.gitignore''[Kecho 'dentro del archivo hay que escribir los archivos que git debe ignorar[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cademas debe estar en el mismo directorio que la carpeta '.git', ojo, la misma, no dentro de esta'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[60Pcat 'sesion-6sept21.txt' > .gitignore.gitignore[K[3@git rm[C[C[C[C[C[C[C[C[C[C[C\.gitignore[5Prm .gitignore[2@nano[C[C[C[C[C[C[C[C[C[C[Cgit commit -m 'Se agregó un .gitignore'exit[Kthiswwo[2Psexit[1Pexit#So now, I should be recording my terminal[19PWhat should I do next?[2PI wasss gonna dooo...[14Pgit log# Not sure if that was what I wanted to do[18PMaybe some git status?[14Pgit status[6PdamnSo now I have to add them[16Pgit add .commit -m "I just made some scripts and I'm testing their timing (replay) abilities"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24P# Ohhhh yesah I was gonna do a carpet for scripts and historials[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K#That should be 'historial'Lets check whats inside historial[22Pls[C[C[C[C[C[C[C[C[C[C[5Pnothing[Knothing[K#Didnt found what i [K[KI was searching
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ #Wellt[K then
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ historialcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[C[C[C[C[C[C[C[C[C[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[1Pcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txtmcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txtvcarpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt carpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C historial/[1@g[1@i[1@t[1@ 
-fatal: no se encuentra bajo control de versión, fuente=carpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt, destino=historial/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ ls historial/
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ ls historial/[81@git mv carpeta_ignorar1/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ t[K#then
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git status
-En la rama master
-Cambios no rastreados para el commit:
-  (usa "git add <archivo>..." para actualizar lo que será confirmado)
-  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
-
-	[31mmodificado:     timed_script.log[m
-	[31mmodificado:     timeof_script.log[m
-
-Archivos sin seguimiento:
-  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
-
-	[31mhistorial/[m
-
-sin cambios agregados al commit (usa "git add" y/o "git commit -a")
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ So we do [1@#[C[C[C[C[C[C[C[C[C a [C g o o d [C o l [C [K' [C " a d d [C - [1P - [1P . [1P . [1@g[1@i[1@t[1@ [C[C[C[C[C[C[K"
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git add .
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git commit -,[Km "changed places og[Kf historial since who knowd[Ks when and added ti[K[Ktimed_scf[Kript changes"
-[master 7e682f2] changed places of historial since who knows when and added timed_script changes
- 3 files changed, 2067 insertions(+)
- create mode 100644 historial/history_of_this_shell_since_who_knows_when_up_to_7sep21.txt
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ I [K[K@[K# I suppose that should do it but nahhh
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ # Now I rme[K[Kemembered I dont want ho[Kistorial to be a carped[Kt watched by gt[Kig[Kt
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ # So I gotta reset this changes
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ # Firas[K[Kst a little git --soft, then a --mixed
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git reset --soft [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kt log | less
-[?1049h[22;0;0t[?1h=commit 7e682f24895e62e8d284e9e2868909ee4a470918
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Tue Sep 7 01:37:32 2021 -0500
-
-    changed places of historial since who knows when and added timed_script changes
-
-commit a763bdb6e996c1cef818e3ee3d318c9354ee1a4d
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Tue Sep 7 01:31:38 2021 -0500
-
-    I just made some scripts and I'm testing their timing (replay) abilities
-
-commit b29dbdd7e8751835c0529806e52bfd4495693f21
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Tue Sep 7 00:52:11 2021 -0500
-
-    se añadieron programas a ignorar para conocer las capacidades de .gitignore
-
-commit ecedb219ec9ce0e7622fdcde68146e6e510f6019
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Mon Sep 6 20:13:51 2021 -0500
-
-    Se agregó un .gitignore
-
-commit 2f8c921dd9eda47cefdae15a668ac2201df85f9d
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Mon Sep 6 01:13:32 2021 -0500
-
-    Se añadieron dos lineas a example_file1
-
-commit c15cdf973654c14daed2b1099f7d306eb3a51680
-:[K[K[?1l>[?1049l[23;0;0t(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ # Just realized i[KI¡[K'm kinda stoopid because I havent even adde [Kd 'historial' carpet to th e[Ke[K [K[K[Ke [K[Khe repositotr[Kry[K[K[Kry
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ historial[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[Kgit add d[K-[K.
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git [K[K[K[Kgit status
-En la rama master
-Cambios a ser confirmados:
-  (usa "git reset HEAD <archivo>..." para sacar del área de stage)
-
-	[32mmodificado:     timeof_script.log[m
-
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git#[K[K[K[K# nonoonon [K[K[K[K[Kno, again,[K I'am [K[K[Km kinda stoopoi[K[Kid [K, I didnt need to t[Kdo last 'add -[K.' cuz I had already done a comi[Kmit a few [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1@n[1@o[1@t[1@h[1@e[1@r[C a few [A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" a feww[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca a few[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd a few[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd a few[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C a few[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C. a few[1@0[1P[1@"
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ @[K#- a few lines up
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ man im tired
-Ninguna entrada del manual para im
-Ninguna entrada del manual para tired
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ So then we gonna do [1@#
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ gi tlog[K[K[K[K[K[K[Kgit log @ [K[K1[K| less
-[?1049h[22;0;0t[?1h=commit 7e682f24895e62e8d284e9e2868909ee4a470918
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Tue Sep 7 01:37:32 2021 -0500
-
-    changed places of historial since who knows when and added timed_script changes
-
-commit a763bdb6e996c1cef818e3ee3d318c9354ee1a4d
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Tue Sep 7 01:31:38 2021 -0500
-
-    I just made some scripts and I'm testing their timing (replay) abilities
-
-commit b29dbdd7e8751835c0529806e52bfd4495693f21
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Tue Sep 7 00:52:11 2021 -0500
-
-    se añadieron programas a ignorar para conocer las capacidades de .gitignore
-
-commit ecedb219ec9ce0e7622fdcde68146e6e510f6019
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Mon Sep 6 20:13:51 2021 -0500
-
-    Se agregó un .gitignore
-
-commit 2f8c921dd9eda47cefdae15a668ac2201df85f9d
-Author: David Greeg <dgreegmdz@hotmail.com>
-Date:   Mon Sep 6 01:13:32 2021 -0500
-
-    Se añadieron dos lineas a example_file1
-
-commit c15cdf973654c14daed2b1099f7d306eb3a51680
-:[K[K[?1l>[?1049l[23;0;0t(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ gir [K[Kt reset -- mixed [1P[C[C[C[C[C[C a763bdb6e996c1cef818e3ee3d318c9354ee1a4d 
-Cambios fuera del área de stage tras el reset:
-M	timed_script.log
-M	timeof_script.log
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git status
-En la rama master
-Cambios no rastreados para el commit:
-  (usa "git add <archivo>..." para actualizar lo que será confirmado)
-  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
-
-	[31mmodificado:     timed_script.log[m
-	[31mmodificado:     timeof_script.log[m
-
-Archivos sin seguimiento:
-  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
-
-	[31mhistorial/[m
-
-sin cambios agregados al commit (usa "git add" y/o "git commit -a")
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ ok then
-ok: orden no encontrada
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ NOw [K[K[K[K#o[Know we go to gitignore
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ nano gi[K[K.gitignore 
-[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;66H(B[0;7m[ Leyendo archivo ](B[m[30;68H(B[0;7m4 líneas leídas ](B[m[H(B[0;7m  GNU nano 2.9.3                                                       .gitignore                                                                    [1;148H(B[m[31d(B[0;7m^G(B[m Ver ayuda    (B[0;7m^O(B[m Guardar[33G(B[0;7m^W(B[m Buscar[49G(B[0;7m^K(B[m Cortar Texto (B[0;7m^J(B[m Justificar   (B[0;7m^C(B[m Posición     (B[0;7mM-U(B[m Deshacer    (B[0;7mM-A(B[m Marcar texto(B[0;7mM-](B[m A llave[32d(B[0;7m^X(B[m Salir[32;17H(B[0;7m^R(B[m Leer fich.   (B[0;7m^\(B[m Reemplazar   (B[0;7m^U(B[m Pegar txt    (B[0;7m^T(B[m Ortografía   (B[0;7m^_(B[m Ir a línea   (B[0;7mM-E(B[m Rehacer     (B[0;7mM-6(B[m Copiar txt  (B[0;7mM-W(B[m Siguiente[30d[3d[39;49m(B[m/carpeta_ignorar1[4d/carpeta_ignorar2/[5dsesion-6sept21.txt[6darchivo_ignorar*[3d[?12l[?25h[?25l[1;138H(B[0;7mModificado(B[m7[2;29r8[2dM[1;32r[4;1H[?12l[?25h[?25l/[?12l[?25h[?25l[A[?12l[?25h[?25l/[?12l[?25h[?25lh[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25li[?12l[?25h[?25la[?12l[?25h[?25ll[?12l[?25h[?25l/[?12l[?25h[?25l[31;17H          [33G     (B[0;7mM-D(B[m Format DOS[23X[31;75H(B[0;7mM-A(B[m Añadir[27X[31;112H(B[0;7mM-B(B[m Respald fich[K[32;2H(B[0;7mC(B[m Cancelar[26X[32;38H(B[0;7mM-M(B[m Format Mac[23X[32;75H(B[0;7mM-P(B[m Anteponer[24X[32;112H(B[0;7m^T(B[m A Ficheros[K[30d(B[0;7mNombre del archivo a escribir: .gitignore                                                                                                            [30;1H(B[m[30;42H[?12l[?25h[?25l[K[1;148H[1;138H(B[0;7m          (B[m[30;65H(B[0;7m[ 5 líneas escritas ](B[m[31;17H(B[0;7m^O(B[m Guardar[33G(B[0;7m^W(B[m Buscar       (B[0;7m^K(B[m Cortar Texto (B[0;7m^J(B[m Justificar   (B[0;7m^C(B[m Posición     (B[0;7mM-U(B[m Deshacer    (B[0;7mM-A(B[m Marcar texto(B[0;7mM-](B[m A llave[32;2H(B[0;7mX(B[m Salir        (B[0;7m^R(B[m Leer fich.   (B[0;7m^\(B[m Reemplazar   (B[0;7m^U(B[m Pegar txt    (B[0;7m^T(B[m Ortografía   (B[0;7m^_(B[m Ir a línea   (B[0;7mM-E(B[m Rehacer     (B[0;7mM-6(B[m Copiar txt  (B[0;7mM-W(B[m Siguiente[30d[3;12H[?12l[?25h[?25l[30d[J[32;149H[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ nano .gitignore #now we go to gitignoreok then[Kgit statusreset --mixed a763bdb6e996c1cef818e3ee3d318c9354ee1a4d [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
-En la rama master
-Cambios no rastreados para el commit:
-  (usa "git add <archivo>..." para actualizar lo que será confirmado)
-  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
-
-	[31mmodificado:     .gitignore[m
-	[31mmodificado:     timed_script.log[m
-	[31mmodificado:     timeof_script.log[m
-
-sin cambios agregados al commit (usa "git add" y/o "git commit -a")
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ #noce
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ #nice
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git #[Kom[K[Kcmmi[K[K[Kommit -m " [KWe[K[KAdded historial file to historial ac[Kca[K[Kca[K[K[Kcarpet a[Knd[K[K[K,, then we indicated gitignore to ignore tht[Kaht [K[K[Kt car pet, then we gonna commit this changes"[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C then we indicated gitignore to ignore that carpe[1P[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-En la rama master
-Cambios no rastreados para el commit:
-	[31mmodificado:     .gitignore[m
-	[31mmodificado:     timed_script.log[m
-	[31mmodificado:     timeof_script.log[m
-
-no se agregaron cambios al commit
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git commit -m "Added historial file to historial carpet, then we indicated gitignore to ignore that carpeet, then we gonna commit this changes"[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ #nice[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Added historial file to historial carpet, then we indicated gitignore to ignore that carpeet, then we gonna commit this changes"[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@[K#im stoopoid[K[K[Kid
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git add -[K.
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git add .#im stoopidgit commit -m "Added historial file to historial carpet, then we indicated gitignore to ignore that carpeet, then we gonna commit this changes"
-[master bc1b53a] Added historial file to historial carpet, then we indicated gitignore to ignore that carpet, then we gonna commit this changes
- 3 files changed, 2424 insertions(+)
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git status
-En la rama master
-nada para hacer commit, el árbol de trabajo está limpio
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ ex[K[K#thats all folks
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ exit
-exit
-
-Script terminado en 2021-09-07 01:49:36-0500
