@@ -232,4 +232,18 @@ Cambios no rastreados para el commit:
 	[31mmodificado:     timeof_script.log[m
 
 no se agregaron cambios al commit
-(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git co
+(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git commit -m "Added historial file to historial carpet, then we indicated gitignore to ignore that carpeet, then we gonna commit this changes"[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ #nice[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Added historial file to historial carpet, then we indicated gitignore to ignore that carpeet, then we gonna commit this changes"[A(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@[K#im stoopoid[K[K[Kid
+(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git add -[K.
+(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git add .#im stoopidgit commit -m "Added historial file to historial carpet, then we indicated gitignore to ignore that carpeet, then we gonna commit this changes"
+[master bc1b53a] Added historial file to historial carpet, then we indicated gitignore to ignore that carpet, then we gonna commit this changes
+ 3 files changed, 2424 insertions(+)
+(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ git status
+En la rama master
+nada para hacer commit, el árbol de trabajo está limpio
+(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ ex[K[K#thats all folks
+(base) ]0;davidfm@davidfmhp: ~/Py/Curso2_Python[01;32mdavidfm@davidfmhp[00m:[01;34m~/Py/Curso2_Python[00m$ exit
+exit
+
+Script terminado en 2021-09-07 01:49:36-0500
